@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="game_jam_template"
+config/name="godot_rpg_template"
 run/main_scene="uid://dbbl764uivff2"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://assets/sprites/icon.svg"
